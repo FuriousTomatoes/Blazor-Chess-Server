@@ -1,0 +1,26 @@
+﻿@page "/TicTacToe"
+@using TicTacToeLibrary
+@using System.Drawing;
+@inject TicTacToeService ticTacToe
+
+<h1>Tic Tac Toe</h1>
+
+<div style="margin:50px; width:50%">
+    @for (int y = 0; y < 3; y++)
+    {
+        @for (int x = 0; x < 3; x++)
+        {
+            Point p = new Point(x, y);
+    <button class="btn btn-primary" style="margin:1%;float:left;width:31.33%; height: 20vh" @onclick="() => ticTacToe.Move(p)">@(ticTacToe.Board[p.X, p.Y] == Player.None ? " " : ticTacToe.Board[p.X, p.Y].ToString())</button>
+        }
+    }
+    @if (ticTacToe.Winner() != Player.None || ticTacToe.Draw())
+    {
+        <button class="btn btn-primary" style="margin:1%;float:left;" @onclick="ticTacToe.Reset">Rematch?</button>
+    }
+</div>
+
+@code
+{
+
+}

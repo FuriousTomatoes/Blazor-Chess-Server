@@ -1,0 +1,58 @@
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\bin\Debug\net5.0\appsettings.Development.json
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\bin\Debug\net5.0\appsettings.json
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\bin\Debug\net5.0\Chess Server.exe
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\bin\Debug\net5.0\Chess Server.deps.json
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\bin\Debug\net5.0\Chess Server.runtimeconfig.json
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\bin\Debug\net5.0\Chess Server.runtimeconfig.dev.json
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\bin\Debug\net5.0\Chess Server.dll
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\bin\Debug\net5.0\ref\Chess Server.dll
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\bin\Debug\net5.0\Chess Server.pdb
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\bin\Debug\net5.0\Chess Server.Views.dll
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\bin\Debug\net5.0\Chess Server.Views.pdb
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\bin\Debug\net5.0\TicTacToe.dll
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\bin\Debug\net5.0\DoubleZ.dll
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\bin\Debug\net5.0\TicTacToe.pdb
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\bin\Debug\net5.0\DoubleZ.pdb
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\obj\Debug\net5.0\Chess Server.csprojAssemblyReference.cache
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\obj\Debug\net5.0\Chess Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\obj\Debug\net5.0\Chess Server.AssemblyInfoInputs.cache
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\obj\Debug\net5.0\Chess Server.AssemblyInfo.cs
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\obj\Debug\net5.0\Chess Server.csproj.CoreCompileInputs.cache
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\obj\Debug\net5.0\Chess Server.MvcApplicationPartsAssemblyInfo.cache
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\obj\Debug\net5.0\Chess Server.RazorComponent.input.cache
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\obj\Debug\net5.0\RazorDeclaration\Pages\TicTacToe.razor.g.cs
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\obj\Debug\net5.0\Chess Server.RazorComponent.output.cache
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\obj\Debug\net5.0\RazorDeclaration\Chess Server.dll
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\obj\Debug\net5.0\Chess Server.TagHelpers.input.cache
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\obj\Debug\net5.0\Chess Server.TagHelpers.output.cache
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\obj\Debug\net5.0\Chess Server.RazorCoreGenerate.cache
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\obj\Debug\net5.0\Razor\App.razor.g.cs
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\obj\Debug\net5.0\Razor\Pages\FetchData.razor.g.cs
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\obj\Debug\net5.0\Razor\Pages\TicTacToe.razor.g.cs
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\obj\Debug\net5.0\Chess Server.RazorAssemblyInfo.cache
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\obj\Debug\net5.0\Chess Server.RazorAssemblyInfo.cs
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\obj\Debug\net5.0\staticwebassets\Chess Server.StaticWebAssets.Manifest.cache
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\obj\Debug\net5.0\staticwebassets\Chess Server.StaticWebAssets.xml
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\obj\Debug\net5.0\scopedcss\bundle\Chess Server.styles.css
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\obj\Debug\net5.0\Chess Server.RazorTargetAssemblyInfo.cache
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\obj\Debug\net5.0\Chess Server.RazorTargetAssemblyInfo.cs
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\obj\Debug\net5.0\Chess Server.Views.pdb
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\obj\Debug\net5.0\Chess Server.csproj.CopyComplete
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\obj\Debug\net5.0\Chess Server.dll
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\obj\Debug\net5.0\ref\Chess Server.dll
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\obj\Debug\net5.0\Chess Server.pdb
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\obj\Debug\net5.0\Chess Server.genruntimeconfig.cache

@@ -1,0 +1,49 @@
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\bin\Debug\netcoreapp3.1\appsettings.json
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\bin\Debug\netcoreapp3.1\Chess Server.exe
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\bin\Debug\netcoreapp3.1\Chess Server.deps.json
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\bin\Debug\netcoreapp3.1\Chess Server.runtimeconfig.json
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\bin\Debug\netcoreapp3.1\Chess Server.runtimeconfig.dev.json
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\bin\Debug\netcoreapp3.1\Chess Server.dll
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\bin\Debug\netcoreapp3.1\Chess Server.pdb
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\bin\Debug\netcoreapp3.1\Chess Server.Views.dll
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\bin\Debug\netcoreapp3.1\Chess Server.Views.pdb
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\obj\Debug\netcoreapp3.1\Chess Server.csprojAssemblyReference.cache
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\obj\Debug\netcoreapp3.1\Chess Server.AssemblyInfoInputs.cache
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\obj\Debug\netcoreapp3.1\Chess Server.AssemblyInfo.cs
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\obj\Debug\netcoreapp3.1\Chess Server.csproj.CoreCompileInputs.cache
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\obj\Debug\netcoreapp3.1\Chess Server.MvcApplicationPartsAssemblyInfo.cache
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\obj\Debug\netcoreapp3.1\Chess Server.RazorComponent.input.cache
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Counter.razor.g.cs
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FetchData.razor.g.cs
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\obj\Debug\netcoreapp3.1\Chess Server.RazorComponent.output.cache
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\obj\Debug\netcoreapp3.1\RazorDeclaration\Chess Server.dll
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\obj\Debug\netcoreapp3.1\Chess Server.TagHelpers.input.cache
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\obj\Debug\netcoreapp3.1\Chess Server.TagHelpers.output.cache
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\obj\Debug\netcoreapp3.1\Chess Server.RazorCoreGenerate.cache
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\obj\Debug\netcoreapp3.1\Razor\Pages\Counter.razor.g.cs
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\obj\Debug\netcoreapp3.1\Razor\Pages\FetchData.razor.g.cs
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\obj\Debug\netcoreapp3.1\Chess Server.RazorAssemblyInfo.cache
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\obj\Debug\netcoreapp3.1\Chess Server.RazorAssemblyInfo.cs
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\obj\Debug\netcoreapp3.1\staticwebassets\Chess Server.StaticWebAssets.Manifest.cache
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\obj\Debug\netcoreapp3.1\staticwebassets\Chess Server.StaticWebAssets.xml
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\obj\Debug\netcoreapp3.1\scopedcss\bundle\Chess Server.styles.css
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\obj\Debug\netcoreapp3.1\Chess Server.RazorTargetAssemblyInfo.cache
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\obj\Debug\netcoreapp3.1\Chess Server.RazorTargetAssemblyInfo.cs
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\obj\Debug\netcoreapp3.1\Chess Server.Views.pdb
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\obj\Debug\netcoreapp3.1\Chess Server.dll
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\obj\Debug\netcoreapp3.1\Chess Server.pdb
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\obj\Debug\netcoreapp3.1\Chess Server.genruntimeconfig.cache
+D:\GIORGIO\Dati\GitHub Repositories\Blazor-Chess-Server\Chess Server\Chess Server\obj\Debug\netcoreapp3.1\Chess Server.csproj.CopyComplete
